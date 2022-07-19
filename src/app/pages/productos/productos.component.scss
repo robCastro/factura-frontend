@@ -1,0 +1,18 @@
+table {
+    width: 75%;
+    margin: auto;
+}
+
+.action {
+    display: flex;
+    flex-direction: row;
+    gap: 4;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    margin: auto;
+    margin-top: 15px;
+}
